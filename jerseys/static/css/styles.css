@@ -1,0 +1,14 @@
+
+/* Navbar */
+.nav{
+    width: 100%;
+}
+
+.navbar-nav {
+    margin-right: auto; 
+}
+
+.navbar-nav .nav-link {
+    margin-right: 40px;
+}
+
